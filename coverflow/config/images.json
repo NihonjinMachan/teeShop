@@ -1,0 +1,19 @@
+{
+  "Images": [
+    {
+      "imageURL": "img/coverflow1.png",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/coverflow2.png",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/coverflow3.png",
+      "target": "none",
+      "text": ""
+    }
+  ]
+}
